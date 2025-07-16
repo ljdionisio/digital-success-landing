@@ -19,7 +19,7 @@ export const PriceSection = () => {
             Transforme sua vida digital por <span className="text-primary">apenas</span>
           </h2>
           <div className="text-6xl md:text-8xl font-bold text-accent mb-4">
-            $4,00
+            $19,99
           </div>
           <p className="text-muted-foreground">
             Investimento único • Acesso vitalício
@@ -78,7 +78,7 @@ export const PriceSection = () => {
                 onClick={handleCTA}
                 className="w-full text-lg py-6 animate-pulse-glow"
               >
-                🚀 QUERO COMEÇAR AGORA - APENAS $4,00
+                🚀 QUERO COMEÇAR AGORA - APENAS $19,99
               </Button>
 
               <p className="text-center text-sm text-muted-foreground mt-4">

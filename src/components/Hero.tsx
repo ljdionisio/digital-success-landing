@@ -15,7 +15,7 @@ export const Hero = () => {
           <div className="space-y-8 animate-fade-in">
             <div className="space-y-4">
               <Badge variant="secondary" className="text-primary font-semibold">
-                🔥 OFERTA ESPECIAL - APENAS $4,00
+                🔥 OFERTA ESPECIAL - APENAS $19,99
               </Badge>
               
               <h1 className="text-4xl md:text-6xl font-bold leading-tight">
@@ -59,7 +59,7 @@ export const Hero = () => {
                 onClick={handleCTA}
                 className="w-full md:w-auto text-lg px-8 py-6 animate-pulse-glow"
               >
-                🚀 MATRICULE-SE AGORA POR APENAS $4,00
+                🚀 MATRICULE-SE AGORA POR APENAS $19,99
               </Button>
               
               <p className="text-sm text-muted-foreground">
@@ -77,7 +77,7 @@ export const Hero = () => {
               />
               <div className="absolute -top-4 -right-4 bg-accent text-accent-foreground p-4 rounded-full shadow-glow">
                 <div className="text-center">
-                  <div className="text-2xl font-bold">$4</div>
+                  <div className="text-2xl font-bold">$19,99</div>
                   <div className="text-xs">APENAS</div>
                 </div>
               </div>

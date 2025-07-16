@@ -19,7 +19,7 @@ export const FinalCTA = () => {
               </h2>
               <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
                 Não perca esta oportunidade única de transformar sua relação com a tecnologia 
-                por apenas <strong className="text-accent">$4,00</strong>
+                por apenas <strong className="text-accent">$19,99</strong>
               </p>
             </div>
 
@@ -45,7 +45,7 @@ export const FinalCTA = () => {
               </Button>
 
               <div className="text-center">
-                <p className="text-4xl font-bold text-accent mb-2">APENAS $4,00</p>
+                <p className="text-4xl font-bold text-accent mb-2">APENAS $19,99</p>
                 <p className="text-muted-foreground">
                   💳 Pagamento seguro • 🎯 Resultados garantidos • 🛡️ 7 dias de garantia
                 </p>

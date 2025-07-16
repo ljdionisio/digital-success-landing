@@ -52,6 +52,10 @@ export default {
 					DEFAULT: 'hsl(var(--warning))',
 					foreground: 'hsl(var(--warning-foreground))'
 				},
+				cyber: {
+					DEFAULT: 'hsl(var(--cyber))',
+					foreground: 'hsl(var(--cyber-foreground))'
+				},
 				popover: {
 					DEFAULT: 'hsl(var(--popover))',
 					foreground: 'hsl(var(--popover-foreground))'
@@ -78,7 +82,8 @@ export default {
 			},
 			backgroundImage: {
 				'gradient-primary': 'var(--gradient-primary)',
-				'gradient-hero': 'var(--gradient-hero)'
+				'gradient-hero': 'var(--gradient-hero)',
+				'gradient-cyber': 'var(--gradient-cyber)'
 			},
 			boxShadow: {
 				'glow': 'var(--shadow-glow)',
@@ -126,7 +131,7 @@ export default {
 						boxShadow: 'var(--shadow-glow)'
 					},
 					'50%': {
-						boxShadow: '0 10px 60px hsl(217 91% 60% / 0.5)'
+						boxShadow: '0 0 60px hsl(260 100% 65% / 0.6)'
 					}
 				}
 			},
